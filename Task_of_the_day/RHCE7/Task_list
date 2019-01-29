@@ -1,0 +1,14 @@
+2019-01-24
+Allowed time: 10 minutes. 
+Change the SSH process configuration to only listen on the 443 port.
+
+2019-01-27
+RHCE7: Task of the day
+Allowed time: 10 minutes. 
+Configure a system to forward all email to a central mail server at 192.168.1.1 (change the IP address accordingly).
+
+2019-01-28
+RHCE7: Task of the day
+Allowed time: 10 minutes. 
+Set up a NFS server that exports the /opt directory in read-only mode.
+

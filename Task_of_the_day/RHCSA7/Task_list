@@ -1,0 +1,14 @@
+2019-01-24
+Allowed time: 10 minutes. 
+Create an EXT4 file system mounted under /vol based on a logical volume of 100MB. 
+Reduce the size to 60MB.
+
+2019-01-27
+RHCSA7: Task of the day
+Allowed time: 10 minutes. 
+Create an EXT4 file system mounted by UUID in /etc/fstab under /vol based on a logical volume of 28 logical extents.
+
+2019-01-28
+RHCSA7: Task of the day
+Allowed time: 5 minutes. 
+Configure a cron task to write the uptime at 2PM every day.
