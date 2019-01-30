@@ -12,3 +12,8 @@ Create an EXT4 file system mounted by UUID in /etc/fstab under /vol based on a l
 RHCSA7: Task of the day
 Allowed time: 5 minutes. 
 Configure a cron task to write the uptime at 2PM every day.
+
+2019-01-30
+RHCSA7: Task of the day
+Allowed time: 5 minutes. 
+Create two users "tom" and "engine". "tom" has the UID/GID 3000 and "engine" the UID/GID 4000. "engine" doesn't have an interactive shell.

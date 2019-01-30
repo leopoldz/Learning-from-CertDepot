@@ -12,3 +12,7 @@ RHCE7: Task of the day
 Allowed time: 10 minutes. 
 Set up a NFS server that exports the /opt directory in read-only mode.
 
+2019-01-30
+RHCE7: Task of the day
+Allowed time: 10 minutes. 
+Set up a default secure MariaDB database called maria and create a table named people with two columns respectively name varchar(20) and age int(10) unsigned.
