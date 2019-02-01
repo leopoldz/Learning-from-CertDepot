@@ -17,3 +17,8 @@ Configure a cron task to write the uptime at 2PM every day.
 RHCSA7: Task of the day
 Allowed time: 5 minutes. 
 Create two users "tom" and "engine". "tom" has the UID/GID 3000 and "engine" the UID/GID 4000. "engine" doesn't have an interactive shell.
+
+2019-02-01
+RHCSA7: Task of the day
+Allowed time: 10 minutes. 
+Boot and change the root password before the end of the boot process.
