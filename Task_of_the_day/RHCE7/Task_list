@@ -21,3 +21,8 @@ Set up a default secure MariaDB database called maria and create a table named p
 RHCE7: Task of the day
 Allowed time: 10 minutes. 
 Set up a caching-only DNS server.
+
+2019-02-02
+RHCE7: Task of the day
+Allowed time: 10 minutes. 
+Set up a default secure MariaDB database called maria with a user named muser with all privileges.

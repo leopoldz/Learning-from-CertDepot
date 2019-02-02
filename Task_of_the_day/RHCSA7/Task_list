@@ -22,3 +22,8 @@ Create two users "tom" and "engine". "tom" has the UID/GID 3000 and "engine" the
 RHCSA7: Task of the day
 Allowed time: 10 minutes. 
 Boot and change the root password before the end of the boot process.
+
+2019-02-02
+RHCSA7: Task of the day
+Allowed time: 5 minutes. 
+Add 100MB of swap space to the machine using a new logical volume.
