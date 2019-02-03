@@ -27,3 +27,8 @@ Boot and change the root password before the end of the boot process.
 RHCSA7: Task of the day
 Allowed time: 5 minutes. 
 Add 100MB of swap space to the machine using a new logical volume.
+
+2019-02-03
+RHCSA7: Task of the day
+Allowed time: 5 minutes. 
+Create a new user account called "bob" with password "redhat" and set expiration in one week.

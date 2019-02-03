@@ -26,3 +26,8 @@ Set up a caching-only DNS server.
 RHCE7: Task of the day
 Allowed time: 10 minutes. 
 Set up a default secure MariaDB database called maria with a user named muser with all privileges.
+
+2019-02-03
+RHCE7: Task of the day
+Allowed time: 8 minutes. 
+Set up an iScsi target based on a block backstore of 100MB called lv_iscsi with basic authentication, ext4 filesystem and standard firewall configuration.
