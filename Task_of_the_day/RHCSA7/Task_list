@@ -37,3 +37,8 @@ Create a new user account called "bob" with password "redhat" and set expiration
 RHCSA7: Task of the day
 Allowed time: 10 minutes. 
 Set up a default configuration HTTP server with SELinux in Enforcing mode and active firewalld configuration.
+
+2019-02-12
+RHCSA7: Task of the day
+Allowed time: 10 minutes. 
+Create a XFS file system of 100MB. Mount it under /mnt. Then, increase its size by 50MB.

@@ -36,3 +36,8 @@ Set up an iScsi target based on a block backstore of 100MB called lv_iscsi with 
 RHCE7: Task of the day
 Allowed time: 10 minutes. 
 Set up a default secure MariaDB database called maria and back up the database with mysqldump.
+
+2019-02-12
+RHCE7: Task of the day
+Allowed time: 10 minutes. 
+Set up a caching-only DNS server to forward DNS queries.
