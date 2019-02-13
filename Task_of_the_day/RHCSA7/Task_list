@@ -42,3 +42,8 @@ Set up a default configuration HTTP server with SELinux in Enforcing mode and ac
 RHCSA7: Task of the day
 Allowed time: 10 minutes. 
 Create a XFS file system of 100MB. Mount it under /mnt. Then, increase its size by 50MB.
+
+2019-02-13
+RHCSA7: Task of the day
+Allowed time: 8 minutes. 
+Find all files bigger than 100MB and write their names into the /root/results.txt file.

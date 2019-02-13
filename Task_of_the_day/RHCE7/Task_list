@@ -41,3 +41,8 @@ Set up a default secure MariaDB database called maria and back up the database w
 RHCE7: Task of the day
 Allowed time: 10 minutes. 
 Set up a caching-only DNS server to forward DNS queries.
+
+2019-02-13
+RHCE7: Task of the day
+Allowed time: 8 minutes. 
+Set up an iScsi target based on a fileio backstore of 100MB called /opt/shareddata with CHAP authentication (username=usr/password=pwd), xfs filesystem and standard firewall configuration.
