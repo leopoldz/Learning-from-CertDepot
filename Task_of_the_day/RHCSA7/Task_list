@@ -47,3 +47,8 @@ Create a XFS file system of 100MB. Mount it under /mnt. Then, increase its size 
 RHCSA7: Task of the day
 Allowed time: 8 minutes. 
 Find all files bigger than 100MB and write their names into the /root/results.txt file.
+
+2019-02-15
+RHCSA7: Task of the day
+Allowed time: 15 minutes. 
+Get an iso image of CentOS 7 (or a DVD) and set up a local repository.

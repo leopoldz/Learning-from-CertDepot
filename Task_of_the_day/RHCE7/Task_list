@@ -46,3 +46,8 @@ Set up a caching-only DNS server to forward DNS queries.
 RHCE7: Task of the day
 Allowed time: 8 minutes. 
 Set up an iScsi target based on a fileio backstore of 100MB called /opt/shareddata with CHAP authentication (username=usr/password=pwd), xfs filesystem and standard firewall configuration.
+
+2019-02-15
+RHCE7: Task of the day
+Allowed time: 10 minutes.
+Set up a httpd virtual server called "dummy" with DocumentRoot assigned to /opt.
