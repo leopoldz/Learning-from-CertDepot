@@ -51,3 +51,8 @@ Set up an iScsi target based on a fileio backstore of 100MB called /opt/sharedda
 RHCE7: Task of the day
 Allowed time: 10 minutes.
 Set up a httpd virtual server called "dummy" with DocumentRoot assigned to /opt.
+
+2019-02-16
+RHCE7: Task of the day
+Allowed time: 15 minutes. 
+Configure a httpd server with a password protected directory under the /var/www/html/private directory.

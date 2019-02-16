@@ -52,3 +52,9 @@ Find all files bigger than 100MB and write their names into the /root/results.tx
 RHCSA7: Task of the day
 Allowed time: 15 minutes. 
 Get an iso image of CentOS 7 (or a DVD) and set up a local repository.
+
+2019-02-16
+RHCSA7: Task of the day
+Allowed time: 10 minutes. 
+Create an EXT4 file system mounted under /vol based on a logical volume of 100MB. 
+Reduce the size to 60MB.
