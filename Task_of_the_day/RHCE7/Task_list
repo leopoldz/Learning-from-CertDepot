@@ -56,3 +56,8 @@ Set up a httpd virtual server called "dummy" with DocumentRoot assigned to /opt.
 RHCE7: Task of the day
 Allowed time: 15 minutes. 
 Configure a httpd server with a password protected directory under the /var/www/html/private directory.
+
+2019-02-19
+RHCE7: Task of the day
+Allowed time: 15 minutes. 
+Configure a Samba server called MYSERVER, belonging to the MYGROUP group, sharing the /shared directory with the name "shared".

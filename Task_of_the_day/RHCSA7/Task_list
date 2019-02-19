@@ -58,3 +58,10 @@ RHCSA7: Task of the day
 Allowed time: 10 minutes. 
 Create an EXT4 file system mounted under /vol based on a logical volume of 100MB. 
 Reduce the size to 60MB.
+
+2019-02-19
+RHCSA7: Task of the day
+Allowed time: 10 minutes. 
+Create two new user accounts "steve" and "oliver". 
+Create a group "team". Create a directory "shared". 
+All files put into the "shared" directory by "steve" or "oliver" should belong to the "team" group and be only visible by them.
